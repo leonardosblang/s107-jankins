@@ -2,5 +2,5 @@
 
 # Python FastAPI - CarRUD
 
-API e testes unitários de uma api de carros rodando no docker+jankins.
+API e testes unitários de uma api de carros rodando no docker+jenkins.
 
