@@ -8,7 +8,7 @@ BASE_PLATFORM = "Win32GUI" if sys.platform == "win32" else None
 setup(
     name="build",
     version="1.0",
-    description="Mocktests",
+    description="Buildtests",
     options={"build_exe": build_exe_options},
     executables=[Executable("main.py", base=None,
                             target_name="test-build.exe")],
