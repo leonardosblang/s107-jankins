@@ -1,0 +1,5 @@
+pydantic~=1.10.2
+fastapi~=0.85.0
+starlette~=0.20.4
+pymongo~=4.2.0
+cx_Freeze~=6.13
